@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		0AE3F3E02EC4E6EF00C65E87 /* swiftfulthinking-bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftfulthinking-bootcamp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0AE3F3E02EC4E6EF00C65E87 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0AE3F3E22EC4E6EF00C65E87 /* swiftfulthinking-bootcamp */ = {
+		0AE3F3E22EC4E6EF00C65E87 /* SwiftfulThinkingBootcamp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "swiftfulthinking-bootcamp";
+			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		0AE3F3D72EC4E6EF00C65E87 = {
 			isa = PBXGroup;
 			children = (
-				0AE3F3E22EC4E6EF00C65E87 /* swiftfulthinking-bootcamp */,
+				0AE3F3E22EC4E6EF00C65E87 /* SwiftfulThinkingBootcamp */,
 				0AE3F3E12EC4E6EF00C65E87 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		0AE3F3E12EC4E6EF00C65E87 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0AE3F3E02EC4E6EF00C65E87 /* swiftfulthinking-bootcamp.app */,
+				0AE3F3E02EC4E6EF00C65E87 /* SwiftfulThinkingBootcamp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0AE3F3DF2EC4E6EF00C65E87 /* swiftfulthinking-bootcamp */ = {
+		0AE3F3DF2EC4E6EF00C65E87 /* SwiftfulThinkingBootcamp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0AE3F3EB2EC4E6F000C65E87 /* Build configuration list for PBXNativeTarget "swiftfulthinking-bootcamp" */;
+			buildConfigurationList = 0AE3F3EB2EC4E6F000C65E87 /* Build configuration list for PBXNativeTarget "SwiftfulThinkingBootcamp" */;
 			buildPhases = (
 				0AE3F3DC2EC4E6EF00C65E87 /* Sources */,
 				0AE3F3DD2EC4E6EF00C65E87 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0AE3F3E22EC4E6EF00C65E87 /* swiftfulthinking-bootcamp */,
+				0AE3F3E22EC4E6EF00C65E87 /* SwiftfulThinkingBootcamp */,
 			);
-			name = "swiftfulthinking-bootcamp";
+			name = SwiftfulThinkingBootcamp;
 			packageProductDependencies = (
 			);
 			productName = SwiftfulThinkingBootcamp;
-			productReference = 0AE3F3E02EC4E6EF00C65E87 /* swiftfulthinking-bootcamp.app */;
+			productReference = 0AE3F3E02EC4E6EF00C65E87 /* SwiftfulThinkingBootcamp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0AE3F3DB2EC4E6EF00C65E87 /* Build configuration list for PBXProject "swiftfulthinking-bootcamp" */;
+			buildConfigurationList = 0AE3F3DB2EC4E6EF00C65E87 /* Build configuration list for PBXProject "SwiftfulThinkingBootcamp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0AE3F3DF2EC4E6EF00C65E87 /* swiftfulthinking-bootcamp */,
+				0AE3F3DF2EC4E6EF00C65E87 /* SwiftfulThinkingBootcamp */,
 			);
 		};
 /* End PBXProject section */
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0AE3F3DB2EC4E6EF00C65E87 /* Build configuration list for PBXProject "swiftfulthinking-bootcamp" */ = {
+		0AE3F3DB2EC4E6EF00C65E87 /* Build configuration list for PBXProject "SwiftfulThinkingBootcamp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0AE3F3E92EC4E6F000C65E87 /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0AE3F3EB2EC4E6F000C65E87 /* Build configuration list for PBXNativeTarget "swiftfulthinking-bootcamp" */ = {
+		0AE3F3EB2EC4E6F000C65E87 /* Build configuration list for PBXNativeTarget "SwiftfulThinkingBootcamp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0AE3F3EC2EC4E6F000C65E87 /* Debug */,
